@@ -1,0 +1,1980 @@
+Case-Id,Task-Id,Task-Name,resource,Semester,CGPA
+1,CSI-303,PL,Ali Zafar,1st,4
+1,CSI-308,OOP,Ahmad Adnan,2nd,3
+1,CSI-403,DS,Sara Umar,3rd,4
+1,CSI-405,JAVA,Noor ul hassan,4th,3
+1,CSI-506,PROJECT,Usman,5th,4
+2,CSI-303,PL,Rabia,1st,4
+2,CSI-308,OOP,Nasrullah Nazir,2nd,4
+2,CSI-403,DS,Umar  ,3rd,4
+2,CSI-405,JAVA,Naeem Abbas ,4th,4
+2,CSI-506,PROJECT, Sohaib ,5th,3
+2,CSI-303,PL,Ali Zafar,1st,3
+2,CSI-308,OOP,Ahmad Adnan,2nd,3
+3,CSI-403,DS,Sara Umar,3rd,3
+3,CSI-403,DS,Sara Umar,3rd,4
+3,CSI-405,JAVA,Noor ul hassan,4th,3
+3,CSI-506,PROJECT,Usman,5th,4
+3,CSI-303,PL,Rabia,1st,4
+3,CSI-308,OOP,Nasrullah Nazir,2nd,4
+4,CSI-403,DS,Umar  ,3rd,4
+4,CSI-405,JAVA,Naeem Abbas ,4th,4
+4,CSI-403,DS,Sara Umar,3rd,4
+4,CSI-405,JAVA,Noor ul hassan,4th,3
+4,CSI-506,PROJECT,Usman,5th,4
+4,CSI-303,PL,Rabia,1st,4
+4,CSI-308,OOP,Nasrullah Nazir,2nd,4
+5,CSI-403,DS,Umar  ,3rd,4
+5,CSI-405,JAVA,Naeem Abbas ,4th,4
+5,CSI-403,DS,Sara Umar,3rd,4
+5,CSI-405,JAVA,Noor ul hassan,4th,3
+5,CSI-506,PROJECT,Usman,5th,4
+5,CSI-303,PL,Rabia,1st,4
+6,CSI-308,OOP,Nasrullah Nazir,2nd,4
+6,CSI-403,DS,Umar  ,3rd,4
+6,CSI-405,JAVA,Naeem Abbas ,4th,4
+6,CSI-403,DS,Umar  ,3rd,4
+6,CSI-405,JAVA,Naeem Abbas ,4th,4
+6,CSI-403,DS,Sara Umar,3rd,4
+6,CSI-405,JAVA,Noor ul hassan,4th,3
+7,CSI-506,PROJECT,Usman,5th,4
+7,CSI-303,PL,Rabia,1st,4
+7,CSI-308,OOP,Nasrullah Nazir,2nd,4
+7,CSI-403,DS,Umar  ,3rd,4
+7,CSI-405,JAVA,Naeem Abbas ,4th,4
+7,CSI-403,DS,Sara Umar,3rd,4
+7,CSI-405,JAVA,Noor ul hassan,4th,3
+8,CSI-308,OOP,Umar  ,2nd,4
+8,CSI-403,DS,Naeem Abbas ,3rd,4
+8,CSI-405,JAVA, Sohaib ,4th,3
+8,CSI-403,DS,Ali Zafar,3rd,3
+8,CSI-405,JAVA,Ahmad Adnan,4th,3
+8,CSI-308,OOP,Umar  ,2nd,4
+9,CSI-403,DS,Naeem Abbas ,3rd,3
+9,CSI-405,JAVA, Sohaib ,4th,2
+9,CSI-403,DS,Ali Zafar,3rd,3
+9,CSI-405,JAVA,Ahmad Adnan,4th,4
+9,CSI-308,OOP,Umar  ,2nd,3
+9,CSI-403,DS,Naeem Abbas ,3rd,4
+9,CSI-405,JAVA, Sohaib ,4th,3
+10,CSI-403,DS,Ali Zafar,3rd,3
+10,CSI-405,JAVA,Ahmad Adnan,4th,4
+10,CSI-308,OOP,Umar  ,2nd,3
+10,CSI-403,DS,Naeem Abbas ,3rd,3
+10,CSI-405,JAVA, Sohaib ,4th,4
+10,CSI-403,DS,Ali Zafar,3rd,3
+11,CSI-405,JAVA,Ahmad Adnan,4th,3
+11,CSI-308,OOP,Umar  ,2nd,4
+11,CSI-403,DS,Naeem Abbas ,3rd,4
+11,CSI-405,JAVA, Sohaib ,4th,3
+11,CSI-403,DS,Ali Zafar,3rd,3
+11,CSI-405,JAVA,Ahmad Adnan,4th,3
+11,CSI-308,OOP,Umar  ,2nd,4
+12,CSI-403,DS,Naeem Abbas ,3rd,3
+12,CSI-405,JAVA, Sohaib ,4th,3
+12,CSI-403,DS,Ali Zafar,3rd,3
+12,CSI-405,JAVA,Ahmad Adnan,4th,3
+12,CSI-308,OOP,Umar  ,2nd,3
+12,CSI-403,DS,Naeem Abbas ,3rd,3
+12,CSI-405,JAVA, Sohaib ,4th,4
+13,CSI-403,DS,Ali Zafar,3rd,3
+13,CSI-405,JAVA,Ahmad Adnan,4th,3
+13,CSI-308,OOP,Umar  ,2nd,3
+13,CSI-403,DS,Naeem Abbas ,3rd,3
+13,CSI-405,JAVA, Sohaib ,4th,4
+13,CSI-403,DS,Ali Zafar,3rd,3
+14,CSI-405,JAVA,Ahmad Adnan,4th,4
+14,CSI-308,OOP,Umar  ,2nd,4
+14,CSI-403,DS,Naeem Abbas ,3rd,3
+14,CSI-405,JAVA, Sohaib ,4th,3
+14,CSI-403,DS,Ali Zafar,3rd,3
+14,CSI-405,JAVA,Ahmad Adnan,4th,4
+14,CSI-308,OOP,Umar  ,2nd,3
+15,CSI-403,DS,Naeem Abbas ,3rd,2
+15,CSI-405,JAVA, Sohaib ,4th,3
+15,CSI-403,DS,Ali Zafar,3rd,4
+15,CSI-405,JAVA,Ahmad Adnan,4th,3
+15,CSI-308,OOP,Umar  ,2nd,4
+15,CSI-403,DS,Naeem Abbas ,3rd,3
+16,CSI-405,JAVA, Sohaib ,4th,3
+16,CSI-403,DS,Ali Zafar,3rd,4
+16,CSI-405,JAVA,Ahmad Adnan,4th,3
+16,CSI-308,OOP,Umar  ,2nd,3
+16,CSI-403,DS,Naeem Abbas ,3rd,2
+16,CSI-405,JAVA, Sohaib ,4th,3
+16,CSI-403,DS,Ali Zafar,3rd,2
+17,CSI-405,JAVA,Ahmad Adnan,4th,3
+17,CSI-308,OOP,Umar  ,2nd,3
+17,CSI-403,DS,Naeem Abbas ,3rd,4
+17,CSI-405,JAVA, Sohaib ,4th,3
+17,CSI-403,DS,Ali Zafar,3rd,4
+17,CSI-405,JAVA,Ahmad Adnan,4th,4
+17,CSI-308,OOP,Umar  ,2nd,4
+18,CSI-403,DS,Naeem Abbas ,3rd,4
+18,CSI-405,JAVA, Sohaib ,4th,3
+18,CSI-403,DS,Ali Zafar,3rd,3
+18,CSI-405,JAVA,Ahmad Adnan,4th,3
+18,CSI-308,OOP,Umar  ,2nd,4
+18,CSI-403,DS,Naeem Abbas ,3rd,3
+19,CSI-405,JAVA, Sohaib ,4th,2
+19,CSI-403,DS,Ali Zafar,3rd,3
+19,CSI-405,JAVA,Ahmad Adnan,4th,4
+19,CSI-308,OOP,Umar  ,2nd,3
+19,CSI-403,DS,Naeem Abbas ,3rd,4
+19,CSI-405,JAVA, Sohaib ,4th,3
+19,CSI-403,DS,Ali Zafar,3rd,3
+20,CSI-405,JAVA,Ahmad Adnan,4th,4
+20,CSI-308,OOP,Umar  ,2nd,3
+20,CSI-403,DS,Naeem Abbas ,3rd,3
+20,CSI-405,JAVA, Sohaib ,4th,2
+20,CSI-403,DS,Ali Zafar,3rd,3
+20,CSI-405,JAVA,Ahmad Adnan,4th,2
+21,CSI-308,OOP,Umar  ,2nd,4
+21,CSI-403,DS,Naeem Abbas ,3rd,3
+21,CSI-405,JAVA, Sohaib ,4th,3
+21,CSI-403,DS,Ali Zafar,3rd,3
+21,CSI-405,JAVA,Ahmad Adnan,4th,4
+21,CSI-308,OOP,Umar  ,2nd,3
+21,CSI-403,DS,Naeem Abbas ,3rd,2
+22,CSI-405,JAVA, Sohaib ,4th,3
+22,CSI-403,DS,Ali Zafar,3rd,4
+22,CSI-405,JAVA,Ahmad Adnan,4th,3
+22,CSI-308,OOP,Umar  ,2nd,4
+22,CSI-403,DS,Naeem Abbas ,3rd,3
+22,CSI-405,JAVA, Sohaib ,4th,3
+22,CSI-403,DS,Ali Zafar,3rd,4
+23,CSI-405,JAVA,Ahmad Adnan,4th,3
+23,CSI-308,OOP,Umar  ,2nd,3
+23,CSI-403,DS,Naeem Abbas ,3rd,2
+23,CSI-405,JAVA, Sohaib ,4th,3
+23,CSI-403,DS,Ali Zafar,3rd,2
+23,CSI-405,JAVA,Ahmad Adnan,4th,2
+24,CSI-308,OOP,Umar  ,2nd,3
+24,CSI-403,DS,Naeem Abbas ,3rd,4
+24,CSI-405,JAVA, Sohaib ,4th,3
+24,CSI-403,DS,Ali Zafar,3rd,4
+24,CSI-405,JAVA,Ahmad Adnan,4th,3
+24,CSI-308,OOP,Umar  ,2nd,3
+24,CSI-403,DS,Naeem Abbas ,3rd,4
+25,CSI-405,JAVA, Sohaib ,4th,3
+25,CSI-403,DS,Ali Zafar,3rd,3
+25,CSI-405,JAVA,Ahmad Adnan,4th,2
+25,CSI-308,OOP,Umar  ,2nd,3
+25,CSI-403,DS,Naeem Abbas ,3rd,2
+25,CSI-405,JAVA, Sohaib ,4th,4
+26,CSI-403,DS,Ali Zafar,3rd,3
+26,CSI-405,JAVA,Ahmad Adnan,4th,3
+26,CSI-308,OOP,Umar  ,2nd,3
+26,CSI-403,DS,Naeem Abbas ,3rd,4
+26,CSI-405,JAVA, Sohaib ,4th,3
+26,CSI-403,DS,Ali Zafar,3rd,2
+26,CSI-405,JAVA,Ahmad Adnan,4th,4
+27,CSI-308,OOP,Umar  ,2nd,3
+27,CSI-403,DS,Naeem Abbas ,3rd,4
+27,CSI-405,JAVA, Sohaib ,4th,4
+27,CSI-403,DS,Ali Zafar,3rd,4
+27,CSI-405,JAVA,Ahmad Adnan,4th,4
+27,CSI-308,OOP,Umar  ,2nd,4
+27,CSI-403,DS,Naeem Abbas ,3rd,3
+28,CSI-405,JAVA, Sohaib ,4th,3
+28,CSI-403,DS,Ali Zafar,3rd,3
+28,CSI-405,JAVA,Ahmad Adnan,4th,3
+28,CSI-308,OOP,Umar  ,2nd,4
+28,CSI-403,DS,Naeem Abbas ,3rd,3
+28,CSI-405,JAVA, Sohaib ,4th,4
+29,CSI-403,DS,Ali Zafar,3rd,4
+29,CSI-405,JAVA,Ahmad Adnan,4th,4
+29,CSI-308,OOP,Umar  ,2nd,4
+29,CSI-403,DS,Naeem Abbas ,3rd,4
+29,CSI-405,JAVA, Sohaib ,4th,4
+29,CSI-403,DS,Ali Zafar,3rd,3
+29,CSI-405,JAVA,Ahmad Adnan,4th,4
+30,CSI-308,OOP,Umar  ,2nd,4
+30,CSI-403,DS,Naeem Abbas ,3rd,4
+30,CSI-405,JAVA, Sohaib ,4th,4
+30,CSI-403,DS,Ali Zafar,3rd,4
+30,CSI-405,JAVA,Ahmad Adnan,4th,4
+30,CSI-308,OOP,Umar  ,2nd,3
+31,CSI-403,DS,Naeem Abbas ,3rd,4
+31,CSI-405,JAVA, Sohaib ,4th,4
+31,CSI-403,DS,Ali Zafar,3rd,4
+31,CSI-405,JAVA,Ahmad Adnan,4th,4
+31,CSI-308,OOP,Umar  ,2nd,4
+31,CSI-403,DS,Naeem Abbas ,3rd,4
+31,CSI-405,JAVA, Sohaib ,4th,4
+32,CSI-403,DS,Ali Zafar,3rd,4
+32,CSI-405,JAVA,Ahmad Adnan,4th,3
+32,CSI-308,OOP,Umar  ,2nd,4
+32,CSI-403,DS,Naeem Abbas ,3rd,4
+32,CSI-405,JAVA, Sohaib ,4th,4
+32,CSI-403,DS,Ali Zafar,3rd,4
+32,CSI-405,JAVA,Ahmad Adnan,4th,4
+33,CSI-308,OOP,Umar  ,2nd,4
+33,CSI-403,DS,Naeem Abbas ,3rd,3
+33,CSI-405,JAVA, Sohaib ,4th,4
+33,CSI-403,DS,Ali Zafar,3rd,4
+33,CSI-405,JAVA,Ahmad Adnan,4th,3
+33,CSI-308,OOP,Umar  ,2nd,3
+34,CSI-403,DS,Naeem Abbas ,3rd,3
+34,CSI-405,JAVA, Sohaib ,4th,4
+34,CSI-403,DS,Ali Zafar,3rd,3
+34,CSI-405,JAVA,Ahmad Adnan,4th,2
+34,CSI-308,OOP,Umar  ,2nd,3
+34,CSI-403,DS,Naeem Abbas ,3rd,4
+34,CSI-405,JAVA, Sohaib ,4th,3
+35,CSI-403,DS,Ali Zafar,3rd,4
+35,CSI-405,JAVA,Ahmad Adnan,4th,3
+35,CSI-308,OOP,Umar  ,2nd,3
+35,CSI-403,DS,Naeem Abbas ,3rd,4
+35,CSI-405,JAVA, Sohaib ,4th,3
+35,CSI-403,DS,Ali Zafar,3rd,3
+36,CSI-405,JAVA,Ahmad Adnan,4th,4
+36,CSI-308,OOP,Umar  ,2nd,3
+36,CSI-403,DS,Naeem Abbas ,3rd,3
+36,CSI-405,JAVA, Sohaib ,4th,4
+36,CSI-403,DS,Ali Zafar,3rd,4
+36,CSI-405,JAVA,Ahmad Adnan,4th,3
+36,CSI-308,OOP,Umar  ,2nd,3
+37,CSI-403,DS,Naeem Abbas ,3rd,3
+37,CSI-405,JAVA, Sohaib ,4th,4
+37,CSI-403,DS,Ali Zafar,3rd,3
+37,CSI-405,JAVA,Ahmad Adnan,4th,3
+37,CSI-308,OOP,Umar  ,2nd,3
+37,CSI-403,DS,Naeem Abbas ,3rd,3
+37,CSI-405,JAVA, Sohaib ,4th,3
+38,CSI-403,DS,Ali Zafar,3rd,3
+38,CSI-405,JAVA,Ahmad Adnan,4th,4
+38,CSI-308,OOP,Umar  ,2nd,3
+38,CSI-403,DS,Naeem Abbas ,3rd,3
+38,CSI-405,JAVA, Sohaib ,4th,3
+38,CSI-403,DS,Ali Zafar,3rd,3
+39,CSI-405,JAVA,Ahmad Adnan,4th,4
+39,CSI-308,OOP,Umar  ,2nd,3
+39,CSI-403,DS,Naeem Abbas ,3rd,4
+39,CSI-405,JAVA, Sohaib ,4th,4
+39,CSI-403,DS,Ali Zafar,3rd,3
+39,CSI-405,JAVA,Ahmad Adnan,4th,3
+39,CSI-308,OOP,Umar  ,2nd,3
+40,CSI-403,DS,Naeem Abbas ,3rd,4
+40,CSI-405,JAVA, Sohaib ,4th,3
+40,CSI-403,DS,Ali Zafar,3rd,2
+40,CSI-405,JAVA,Ahmad Adnan,4th,3
+40,CSI-308,OOP,Umar  ,2nd,4
+40,CSI-403,DS,Naeem Abbas ,3rd,3
+41,CSI-405,JAVA, Sohaib ,4th,4
+41,CSI-403,DS,Ali Zafar,3rd,3
+41,CSI-405,JAVA,Ahmad Adnan,4th,3
+41,CSI-308,OOP,Umar  ,2nd,4
+41,CSI-403,DS,Naeem Abbas ,3rd,3
+41,CSI-405,JAVA, Sohaib ,4th,3
+41,CSI-403,DS,Ali Zafar,3rd,2
+42,CSI-405,JAVA,Ahmad Adnan,4th,3
+42,CSI-308,OOP,Umar  ,2nd,2
+42,CSI-403,DS,Naeem Abbas ,3rd,3
+42,CSI-405,JAVA, Sohaib ,4th,3
+42,CSI-403,DS,Ali Zafar,3rd,4
+42,CSI-405,JAVA,Ahmad Adnan,4th,3
+42,CSI-308,OOP,Umar  ,2nd,4
+43,CSI-403,DS,Naeem Abbas ,3rd,4
+43,CSI-405,JAVA, Sohaib ,4th,4
+43,CSI-403,DS,Ali Zafar,3rd,4
+43,CSI-405,JAVA,Ahmad Adnan,4th,3
+43,CSI-308,OOP,Umar  ,2nd,3
+43,CSI-403,DS,Naeem Abbas ,3rd,3
+44,CSI-405,JAVA, Sohaib ,4th,4
+44,CSI-403,DS,Ali Zafar,3rd,3
+44,CSI-405,JAVA,Ahmad Adnan,4th,2
+44,CSI-308,OOP,Umar  ,2nd,3
+44,CSI-403,DS,Naeem Abbas ,3rd,4
+44,CSI-405,JAVA, Sohaib ,4th,3
+44,CSI-403,DS,Ali Zafar,3rd,4
+45,CSI-405,JAVA,Ahmad Adnan,4th,3
+45,CSI-308,OOP,Umar  ,2nd,3
+45,CSI-403,DS,Naeem Abbas ,3rd,4
+45,CSI-405,JAVA, Sohaib ,4th,3
+45,CSI-403,DS,Ali Zafar,3rd,3
+45,CSI-405,JAVA,Ahmad Adnan,4th,2
+46,CSI-308,OOP,Umar  ,2nd,3
+46,CSI-403,DS,Naeem Abbas ,3rd,2
+46,CSI-405,JAVA, Sohaib ,4th,4
+46,CSI-403,DS,Ali Zafar,3rd,3
+46,CSI-405,JAVA,Ahmad Adnan,4th,3
+46,CSI-308,OOP,Umar  ,2nd,3
+46,CSI-403,DS,Naeem Abbas ,3rd,4
+47,CSI-405,JAVA, Sohaib ,4th,3
+47,CSI-403,DS,Ali Zafar,3rd,2
+47,CSI-405,JAVA,Ahmad Adnan,4th,3
+47,CSI-308,OOP,Umar  ,2nd,4
+47,CSI-403,DS,Naeem Abbas ,3rd,3
+47,CSI-405,JAVA, Sohaib ,4th,4
+47,CSI-403,DS,Ali Zafar,3rd,3
+48,CSI-405,JAVA,Ahmad Adnan,4th,3
+48,CSI-308,OOP,Umar  ,2nd,4
+48,CSI-403,DS,Naeem Abbas ,3rd,3
+48,CSI-405,JAVA, Sohaib ,4th,3
+48,CSI-403,DS,Ali Zafar,3rd,2
+48,CSI-405,JAVA,Ahmad Adnan,4th,3
+49,CSI-308,OOP,Umar  ,2nd,2
+49,CSI-403,DS,Naeem Abbas ,3rd,2
+49,CSI-405,JAVA, Sohaib ,4th,3
+49,CSI-403,DS,Ali Zafar,3rd,4
+49,CSI-405,JAVA,Ahmad Adnan,4th,3
+49,CSI-308,OOP,Umar  ,2nd,4
+49,CSI-403,DS,Naeem Abbas ,3rd,3
+50,CSI-405,JAVA, Sohaib ,4th,3
+50,CSI-403,DS,Ali Zafar,3rd,4
+50,CSI-405,JAVA,Ahmad Adnan,4th,3
+50,CSI-308,OOP,Umar  ,2nd,3
+50,CSI-403,DS,Naeem Abbas ,3rd,2
+50,CSI-405,JAVA, Sohaib ,4th,3
+51,CSI-403,DS,Ali Zafar,3rd,2
+51,CSI-405,JAVA,Ahmad Adnan,4th,4
+51,CSI-308,OOP,Umar  ,2nd,3
+51,CSI-403,DS,Naeem Abbas ,3rd,3
+51,CSI-405,JAVA, Sohaib ,4th,3
+51,CSI-403,DS,Ali Zafar,3rd,4
+51,CSI-405,JAVA,Ahmad Adnan,4th,3
+52,CSI-308,OOP,Umar  ,2nd,4
+52,CSI-403,DS,Naeem Abbas ,3rd,4
+52,CSI-405,JAVA, Sohaib ,4th,4
+52,CSI-403,DS,Ali Zafar,3rd,4
+52,CSI-405,JAVA,Ahmad Adnan,4th,4
+52,CSI-308,OOP,Umar  ,2nd,3
+52,CSI-403,DS,Naeem Abbas ,3rd,3
+53,CSI-405,JAVA, Sohaib ,4th,3
+53,CSI-403,DS,Ali Zafar,3rd,3
+53,CSI-405,JAVA,Ahmad Adnan,4th,4
+53,CSI-308,OOP,Umar  ,2nd,3
+53,CSI-403,DS,Naeem Abbas ,3rd,4
+53,CSI-405,JAVA, Sohaib ,4th,4
+54,CSI-403,DS,Ali Zafar,3rd,4
+54,CSI-405,JAVA,Ahmad Adnan,4th,4
+54,CSI-308,OOP,Umar  ,2nd,4
+54,CSI-403,DS,Naeem Abbas ,3rd,4
+54,CSI-405,JAVA, Sohaib ,4th,3
+54,CSI-403,DS,Ali Zafar,3rd,4
+54,CSI-405,JAVA,Ahmad Adnan,4th,4
+55,CSI-308,OOP,Umar  ,2nd,4
+55,CSI-403,DS,Naeem Abbas ,3rd,4
+55,CSI-405,JAVA, Sohaib ,4th,4
+55,CSI-403,DS,Ali Zafar,3rd,4
+55,CSI-405,JAVA,Ahmad Adnan,4th,3
+55,CSI-308,OOP,Umar  ,2nd,4
+56,CSI-403,DS,Naeem Abbas ,3rd,4
+56,CSI-405,JAVA, Sohaib ,4th,4
+56,CSI-403,DS,Ali Zafar,3rd,4
+56,CSI-405,JAVA,Ahmad Adnan,4th,4
+56,CSI-308,OOP,Umar  ,2nd,4
+56,CSI-403,DS,Naeem Abbas ,3rd,4
+56,CSI-405,JAVA, Sohaib ,4th,4
+57,CSI-403,DS,Ali Zafar,3rd,3
+57,CSI-405,JAVA,Ahmad Adnan,4th,4
+57,CSI-308,OOP,Umar  ,2nd,4
+57,CSI-403,DS,Naeem Abbas ,3rd,4
+57,CSI-405,JAVA, Sohaib ,4th,4
+57,CSI-403,DS,Ali Zafar,3rd,4
+57,CSI-405,JAVA,Ahmad Adnan,4th,4
+58,CSI-308,OOP,Umar  ,2nd,3
+58,CSI-403,DS,Naeem Abbas ,3rd,4
+58,CSI-405,JAVA, Sohaib ,4th,4
+58,CSI-403,DS,Ali Zafar,3rd,3
+58,CSI-405,JAVA,Ahmad Adnan,4th,3
+58,CSI-308,OOP,Umar  ,2nd,3
+59,CSI-403,DS,Naeem Abbas ,3rd,4
+59,CSI-405,JAVA, Sohaib ,4th,3
+59,CSI-403,DS,Ali Zafar,3rd,2
+59,CSI-405,JAVA,Ahmad Adnan,4th,3
+59,CSI-308,OOP,Umar  ,2nd,4
+59,CSI-403,DS,Naeem Abbas ,3rd,3
+59,CSI-405,JAVA, Sohaib ,4th,4
+60,CSI-403,DS,Ali Zafar,3rd,3
+60,CSI-405,JAVA,Ahmad Adnan,4th,3
+60,CSI-308,OOP,Umar  ,2nd,4
+60,CSI-403,DS,Naeem Abbas ,3rd,3
+60,CSI-405,JAVA, Sohaib ,4th,3
+60,CSI-403,DS,Ali Zafar,3rd,4
+61,CSI-405,JAVA,Ahmad Adnan,4th,3
+61,CSI-308,OOP,Umar  ,2nd,3
+61,CSI-403,DS,Naeem Abbas ,3rd,4
+61,CSI-405,JAVA, Sohaib ,4th,4
+61,CSI-403,DS,Ali Zafar,3rd,3
+61,CSI-405,JAVA,Ahmad Adnan,4th,3
+61,CSI-308,OOP,Umar  ,2nd,3
+62,CSI-403,DS,Naeem Abbas ,3rd,4
+62,CSI-405,JAVA, Sohaib ,4th,3
+62,CSI-403,DS,Ali Zafar,3rd,3
+62,CSI-405,JAVA,Ahmad Adnan,4th,3
+62,CSI-308,OOP,Umar  ,2nd,3
+62,CSI-403,DS,Naeem Abbas ,3rd,3
+62,CSI-405,JAVA, Sohaib ,4th,3
+63,CSI-403,DS,Ali Zafar,3rd,4
+63,CSI-405,JAVA,Ahmad Adnan,4th,3
+63,CSI-308,OOP,Umar  ,2nd,3
+63,CSI-403,DS,Naeem Abbas ,3rd,3
+63,CSI-405,JAVA, Sohaib ,4th,3
+63,CSI-403,DS,Ali Zafar,3rd,4
+64,CSI-405,JAVA,Ahmad Adnan,4th,3
+64,CSI-308,OOP,Umar  ,2nd,4
+64,CSI-403,DS,Naeem Abbas ,3rd,4
+64,CSI-405,JAVA, Sohaib ,4th,3
+64,CSI-403,DS,Ali Zafar,3rd,3
+64,CSI-405,JAVA,Ahmad Adnan,4th,3
+64,CSI-308,OOP,Umar  ,2nd,4
+65,CSI-403,DS,Naeem Abbas ,3rd,3
+65,CSI-405,JAVA, Sohaib ,4th,2
+65,CSI-403,DS,Ali Zafar,3rd,3
+65,CSI-405,JAVA,Ahmad Adnan,4th,4
+65,CSI-308,OOP,Umar  ,2nd,3
+65,CSI-403,DS,Naeem Abbas ,3rd,4
+66,CSI-405,JAVA, Sohaib ,4th,3
+66,CSI-403,DS,Ali Zafar,3rd,3
+66,CSI-405,JAVA,Ahmad Adnan,4th,4
+66,CSI-308,OOP,Umar  ,2nd,3
+66,CSI-403,DS,Naeem Abbas ,3rd,3
+66,CSI-405,JAVA, Sohaib ,4th,2
+66,CSI-403,DS,Ali Zafar,3rd,3
+67,CSI-405,JAVA,Ahmad Adnan,4th,2
+67,CSI-308,OOP,Umar  ,2nd,3
+67,CSI-403,DS,Naeem Abbas ,3rd,3
+67,CSI-405,JAVA, Sohaib ,4th,4
+67,CSI-403,DS,Ali Zafar,3rd,3
+67,CSI-405,JAVA,Ahmad Adnan,4th,4
+67,CSI-308,OOP,Umar  ,2nd,4
+68,CSI-403,DS,Naeem Abbas ,3rd,4
+68,CSI-405,JAVA, Sohaib ,4th,4
+68,CSI-403,DS,Ali Zafar,3rd,3
+68,CSI-405,JAVA,Ahmad Adnan,4th,3
+68,CSI-308,OOP,Umar  ,2nd,3
+68,CSI-403,DS,Naeem Abbas ,3rd,4
+69,CSI-405,JAVA, Sohaib ,4th,3
+69,CSI-403,DS,Ali Zafar,3rd,2
+69,CSI-405,JAVA,Ahmad Adnan,4th,3
+69,CSI-308,OOP,Umar  ,2nd,4
+69,CSI-403,DS,Naeem Abbas ,3rd,3
+69,CSI-405,JAVA, Sohaib ,4th,4
+69,CSI-403,DS,Ali Zafar,3rd,3
+70,CSI-405,JAVA,Ahmad Adnan,4th,3
+70,CSI-308,OOP,Umar  ,2nd,4
+70,CSI-403,DS,Naeem Abbas ,3rd,3
+70,CSI-405,JAVA, Sohaib ,4th,3
+70,CSI-403,DS,Ali Zafar,3rd,2
+70,CSI-405,JAVA,Ahmad Adnan,4th,3
+71,CSI-308,OOP,Umar  ,2nd,2
+71,CSI-403,DS,Naeem Abbas ,3rd,4
+71,CSI-405,JAVA, Sohaib ,4th,3
+71,CSI-403,DS,Ali Zafar,3rd,3
+71,CSI-405,JAVA,Ahmad Adnan,4th,3
+71,CSI-308,OOP,Umar  ,2nd,4
+71,CSI-403,DS,Naeem Abbas ,3rd,3
+72,CSI-405,JAVA, Sohaib ,4th,2
+72,CSI-403,DS,Ali Zafar,3rd,3
+72,CSI-405,JAVA,Ahmad Adnan,4th,4
+72,CSI-308,OOP,Umar  ,2nd,3
+72,CSI-403,DS,Naeem Abbas ,3rd,4
+72,CSI-405,JAVA, Sohaib ,4th,3
+72,CSI-403,DS,Ali Zafar,3rd,3
+73,CSI-405,JAVA,Ahmad Adnan,4th,4
+73,CSI-308,OOP,Umar  ,2nd,3
+73,CSI-403,DS,Naeem Abbas ,3rd,3
+73,CSI-405,JAVA, Sohaib ,4th,2
+73,CSI-403,DS,Ali Zafar,3rd,3
+73,CSI-405,JAVA,Ahmad Adnan,4th,2
+74,CSI-308,OOP,Umar  ,2nd,2
+74,CSI-403,DS,Naeem Abbas ,3rd,3
+74,CSI-405,JAVA, Sohaib ,4th,4
+74,CSI-403,DS,Ali Zafar,3rd,3
+74,CSI-405,JAVA,Ahmad Adnan,4th,4
+74,CSI-308,OOP,Umar  ,2nd,3
+74,CSI-403,DS,Naeem Abbas ,3rd,3
+75,CSI-405,JAVA, Sohaib ,4th,4
+75,CSI-403,DS,Ali Zafar,3rd,3
+75,CSI-405,JAVA,Ahmad Adnan,4th,3
+75,CSI-308,OOP,Umar  ,2nd,2
+75,CSI-403,DS,Naeem Abbas ,3rd,3
+75,CSI-405,JAVA, Sohaib ,4th,2
+76,CSI-403,DS,Ali Zafar,3rd,4
+76,CSI-405,JAVA,Ahmad Adnan,4th,3
+76,CSI-308,OOP,Umar  ,2nd,3
+76,CSI-403,DS,Naeem Abbas ,3rd,3
+76,CSI-405,JAVA, Sohaib ,4th,4
+76,CSI-403,DS,Ali Zafar,3rd,3
+76,CSI-405,JAVA,Ahmad Adnan,4th,2
+77,CSI-308,OOP,Umar  ,2nd,4
+77,CSI-403,DS,Naeem Abbas ,3rd,3
+77,CSI-405,JAVA, Sohaib ,4th,4
+77,CSI-403,DS,Ali Zafar,3rd,4
+77,CSI-405,JAVA,Ahmad Adnan,4th,4
+77,CSI-308,OOP,Umar  ,2nd,4
+77,CSI-403,DS,Naeem Abbas ,3rd,4
+78,CSI-405,JAVA, Sohaib ,4th,3
+78,CSI-403,DS,Ali Zafar,3rd,3
+78,CSI-405,JAVA,Ahmad Adnan,4th,3
+78,CSI-308,OOP,Umar  ,2nd,3
+78,CSI-403,DS,Naeem Abbas ,3rd,4
+78,CSI-405,JAVA, Sohaib ,4th,3
+79,CSI-403,DS,Ali Zafar,3rd,4
+79,CSI-405,JAVA,Ahmad Adnan,4th,4
+79,CSI-308,OOP,Umar  ,2nd,4
+79,CSI-403,DS,Naeem Abbas ,3rd,4
+79,CSI-405,JAVA, Sohaib ,4th,4
+79,CSI-403,DS,Ali Zafar,3rd,4
+79,CSI-405,JAVA,Ahmad Adnan,4th,3
+80,CSI-308,OOP,Umar  ,2nd,4
+80,CSI-403,DS,Naeem Abbas ,3rd,4
+80,CSI-405,JAVA, Sohaib ,4th,4
+80,CSI-403,DS,Ali Zafar,3rd,4
+80,CSI-405,JAVA,Ahmad Adnan,4th,4
+80,CSI-308,OOP,Umar  ,2nd,4
+81,CSI-403,DS,Naeem Abbas ,3rd,3
+81,CSI-405,JAVA, Sohaib ,4th,4
+81,CSI-403,DS,Ali Zafar,3rd,4
+81,CSI-405,JAVA,Ahmad Adnan,4th,4
+81,CSI-308,OOP,Umar  ,2nd,4
+81,CSI-403,DS,Naeem Abbas ,3rd,4
+81,CSI-405,JAVA, Sohaib ,4th,4
+82,CSI-403,DS,Ali Zafar,3rd,4
+82,CSI-405,JAVA,Ahmad Adnan,4th,4
+82,CSI-308,OOP,Umar  ,2nd,3
+82,CSI-403,DS,Naeem Abbas ,3rd,4
+82,CSI-405,JAVA, Sohaib ,4th,4
+82,CSI-403,DS,Ali Zafar,3rd,4
+82,CSI-405,JAVA,Ahmad Adnan,4th,4
+83,CSI-308,OOP,Umar  ,2nd,4
+83,CSI-403,DS,Naeem Abbas ,3rd,4
+83,CSI-405,JAVA, Sohaib ,4th,3
+83,CSI-403,DS,Ali Zafar,3rd,4
+83,CSI-405,JAVA,Ahmad Adnan,4th,4
+83,CSI-308,OOP,Umar  ,2nd,3
+84,CSI-403,DS,Naeem Abbas ,3rd,3
+84,CSI-405,JAVA, Sohaib ,4th,3
+84,CSI-403,DS,Ali Zafar,3rd,4
+84,CSI-405,JAVA,Ahmad Adnan,4th,3
+84,CSI-308,OOP,Umar  ,2nd,2
+84,CSI-403,DS,Naeem Abbas ,3rd,3
+84,CSI-405,JAVA, Sohaib ,4th,4
+85,CSI-403,DS,Ali Zafar,3rd,3
+85,CSI-405,JAVA,Ahmad Adnan,4th,4
+85,CSI-308,OOP,Umar  ,2nd,3
+85,CSI-403,DS,Naeem Abbas ,3rd,3
+85,CSI-405,JAVA, Sohaib ,4th,4
+85,CSI-403,DS,Ali Zafar,3rd,3
+86,CSI-405,JAVA,Ahmad Adnan,4th,3
+86,CSI-308,OOP,Umar  ,2nd,4
+86,CSI-403,DS,Naeem Abbas ,3rd,3
+86,CSI-405,JAVA, Sohaib ,4th,3
+86,CSI-403,DS,Ali Zafar,3rd,4
+86,CSI-405,JAVA,Ahmad Adnan,4th,4
+86,CSI-308,OOP,Umar  ,2nd,3
+87,CSI-403,DS,Naeem Abbas ,3rd,3
+87,CSI-405,JAVA, Sohaib ,4th,3
+87,CSI-403,DS,Ali Zafar,3rd,4
+87,CSI-405,JAVA,Ahmad Adnan,4th,3
+87,CSI-308,OOP,Umar  ,2nd,3
+87,CSI-403,DS,Naeem Abbas ,3rd,3
+87,CSI-405,JAVA, Sohaib ,4th,3
+88,CSI-403,DS,Ali Zafar,3rd,3
+88,CSI-405,JAVA,Ahmad Adnan,4th,3
+88,CSI-308,OOP,Umar  ,2nd,4
+88,CSI-403,DS,Naeem Abbas ,3rd,3
+88,CSI-405,JAVA, Sohaib ,4th,3
+88,CSI-403,DS,Ali Zafar,3rd,3
+89,CSI-405,JAVA,Ahmad Adnan,4th,3
+89,CSI-308,OOP,Umar  ,2nd,4
+89,CSI-403,DS,Naeem Abbas ,3rd,3
+89,CSI-405,JAVA, Sohaib ,4th,4
+89,CSI-403,DS,Ali Zafar,3rd,4
+89,CSI-405,JAVA,Ahmad Adnan,4th,3
+89,CSI-308,OOP,Umar  ,2nd,3
+90,CSI-403,DS,Naeem Abbas ,3rd,3
+90,CSI-405,JAVA, Sohaib ,4th,4
+90,CSI-403,DS,Ali Zafar,3rd,3
+90,CSI-405,JAVA,Ahmad Adnan,4th,2
+90,CSI-308,OOP,Umar  ,2nd,3
+90,CSI-403,DS,Naeem Abbas ,3rd,4
+91,CSI-405,JAVA, Sohaib ,4th,3
+91,CSI-403,DS,Ali Zafar,3rd,4
+91,CSI-405,JAVA,Ahmad Adnan,4th,3
+91,CSI-308,OOP,Umar  ,2nd,3
+91,CSI-403,DS,Naeem Abbas ,3rd,4
+91,CSI-405,JAVA, Sohaib ,4th,3
+91,CSI-403,DS,Ali Zafar,3rd,3
+92,CSI-405,JAVA,Ahmad Adnan,4th,2
+92,CSI-308,OOP,Umar  ,2nd,3
+92,CSI-403,DS,Naeem Abbas ,3rd,2
+92,CSI-405,JAVA, Sohaib ,4th,3
+92,CSI-403,DS,Ali Zafar,3rd,3
+92,CSI-405,JAVA,Ahmad Adnan,4th,4
+92,CSI-308,OOP,Umar  ,2nd,3
+93,CSI-403,DS,Naeem Abbas ,3rd,4
+93,CSI-405,JAVA, Sohaib ,4th,4
+93,CSI-403,DS,Ali Zafar,3rd,4
+93,CSI-405,JAVA,Ahmad Adnan,4th,4
+93,CSI-308,OOP,Umar  ,2nd,3
+93,CSI-403,DS,Naeem Abbas ,3rd,3
+94,CSI-405,JAVA, Sohaib ,4th,3
+94,CSI-403,DS,Ali Zafar,3rd,4
+94,CSI-405,JAVA,Ahmad Adnan,4th,3
+94,CSI-308,OOP,Umar  ,2nd,2
+94,CSI-403,DS,Naeem Abbas ,3rd,3
+94,CSI-405,JAVA, Sohaib ,4th,4
+94,CSI-403,DS,Ali Zafar,3rd,3
+95,CSI-405,JAVA,Ahmad Adnan,4th,4
+95,CSI-308,OOP,Umar  ,2nd,3
+95,CSI-403,DS,Naeem Abbas ,3rd,3
+95,CSI-405,JAVA, Sohaib ,4th,4
+95,CSI-403,DS,Ali Zafar,3rd,3
+95,CSI-405,JAVA,Ahmad Adnan,4th,3
+96,CSI-308,OOP,Umar  ,2nd,2
+96,CSI-403,DS,Naeem Abbas ,3rd,3
+96,CSI-405,JAVA, Sohaib ,4th,2
+96,CSI-403,DS,Ali Zafar,3rd,4
+96,CSI-405,JAVA,Ahmad Adnan,4th,3
+96,CSI-308,OOP,Umar  ,2nd,3
+96,CSI-403,DS,Naeem Abbas ,3rd,3
+97,CSI-405,JAVA, Sohaib ,4th,4
+97,CSI-403,DS,Ali Zafar,3rd,3
+97,CSI-405,JAVA,Ahmad Adnan,4th,2
+97,CSI-308,OOP,Umar  ,2nd,3
+97,CSI-403,DS,Naeem Abbas ,3rd,4
+97,CSI-405,JAVA, Sohaib ,4th,3
+97,CSI-403,DS,Ali Zafar,3rd,4
+98,CSI-405,JAVA,Ahmad Adnan,4th,3
+98,CSI-308,OOP,Umar  ,2nd,3
+98,CSI-403,DS,Naeem Abbas ,3rd,4
+98,CSI-405,JAVA, Sohaib ,4th,3
+98,CSI-403,DS,Ali Zafar,3rd,3
+98,CSI-405,JAVA,Ahmad Adnan,4th,2
+99,CSI-308,OOP,Umar  ,2nd,3
+99,CSI-403,DS,Naeem Abbas ,3rd,2
+99,CSI-405,JAVA, Sohaib ,4th,2
+99,CSI-403,DS,Ali Zafar,3rd,3
+99,CSI-405,JAVA,Ahmad Adnan,4th,4
+99,CSI-308,OOP,Umar  ,2nd,3
+99,CSI-403,DS,Naeem Abbas ,3rd,4
+100,CSI-405,JAVA, Sohaib ,4th,3
+100,CSI-403,DS,Ali Zafar,3rd,3
+100,CSI-405,JAVA,Ahmad Adnan,4th,4
+100,CSI-308,OOP,Umar  ,2nd,3
+100,CSI-403,DS,Naeem Abbas ,3rd,3
+100,CSI-405,JAVA, Sohaib ,4th,2
+101,CSI-403,DS,Ali Zafar,3rd,3
+101,CSI-405,JAVA,Ahmad Adnan,4th,2
+101,CSI-308,OOP,Umar  ,2nd,4
+101,CSI-403,DS,Naeem Abbas ,3rd,3
+101,CSI-405,JAVA, Sohaib ,4th,4
+101,CSI-403,DS,Ali Zafar,3rd,3
+101,CSI-405,JAVA,Ahmad Adnan,4th,4
+102,CSI-308,OOP,Umar  ,2nd,4
+102,CSI-403,DS,Naeem Abbas ,3rd,4
+102,CSI-405,JAVA, Sohaib ,4th,4
+102,CSI-403,DS,Ali Zafar,3rd,4
+102,CSI-405,JAVA,Ahmad Adnan,4th,3
+102,CSI-308,OOP,Umar  ,2nd,3
+102,CSI-403,DS,Naeem Abbas ,3rd,3
+103,CSI-405,JAVA, Sohaib ,4th,3
+103,CSI-403,DS,Ali Zafar,3rd,4
+103,CSI-405,JAVA,Ahmad Adnan,4th,3
+103,CSI-308,OOP,Umar  ,2nd,4
+103,CSI-403,DS,Naeem Abbas ,3rd,4
+103,CSI-405,JAVA, Sohaib ,4th,4
+104,CSI-403,DS,Ali Zafar,3rd,4
+104,CSI-405,JAVA,Ahmad Adnan,4th,4
+104,CSI-308,OOP,Umar  ,2nd,4
+104,CSI-403,DS,Naeem Abbas ,3rd,3
+104,CSI-405,JAVA, Sohaib ,4th,4
+104,CSI-403,DS,Ali Zafar,3rd,4
+104,CSI-405,JAVA,Ahmad Adnan,4th,4
+105,CSI-308,OOP,Umar  ,2nd,4
+105,CSI-403,DS,Naeem Abbas ,3rd,4
+105,CSI-405,JAVA, Sohaib ,4th,4
+105,CSI-403,DS,Ali Zafar,3rd,3
+105,CSI-405,JAVA,Ahmad Adnan,4th,4
+105,CSI-308,OOP,Umar  ,2nd,4
+106,CSI-403,DS,Naeem Abbas ,3rd,4
+106,CSI-405,JAVA, Sohaib ,4th,4
+106,CSI-403,DS,Ali Zafar,3rd,4
+106,CSI-405,JAVA,Ahmad Adnan,4th,4
+106,CSI-308,OOP,Umar  ,2nd,4
+106,CSI-403,DS,Naeem Abbas ,3rd,4
+106,CSI-405,JAVA, Sohaib ,4th,3
+107,CSI-403,DS,Ali Zafar,3rd,4
+107,CSI-405,JAVA,Ahmad Adnan,4th,4
+107,CSI-308,OOP,Umar  ,2nd,4
+107,CSI-403,DS,Naeem Abbas ,3rd,4
+107,CSI-405,JAVA, Sohaib ,4th,4
+107,CSI-403,DS,Ali Zafar,3rd,4
+107,CSI-405,JAVA,Ahmad Adnan,4th,3
+108,CSI-308,OOP,Umar  ,2nd,4
+108,CSI-403,DS,Naeem Abbas ,3rd,4
+108,CSI-405,JAVA, Sohaib ,4th,3
+108,CSI-403,DS,Ali Zafar,3rd,3
+108,CSI-405,JAVA,Ahmad Adnan,4th,3
+108,CSI-308,OOP,Umar  ,2nd,4
+109,CSI-403,DS,Naeem Abbas ,3rd,3
+109,CSI-405,JAVA, Sohaib ,4th,2
+109,CSI-403,DS,Ali Zafar,3rd,3
+109,CSI-405,JAVA,Ahmad Adnan,4th,4
+109,CSI-308,OOP,Umar  ,2nd,3
+109,CSI-403,DS,Naeem Abbas ,3rd,4
+109,CSI-405,JAVA, Sohaib ,4th,3
+110,CSI-403,DS,Ali Zafar,3rd,3
+110,CSI-405,JAVA,Ahmad Adnan,4th,4
+110,CSI-308,OOP,Umar  ,2nd,3
+110,CSI-403,DS,Naeem Abbas ,3rd,3
+110,CSI-405,JAVA, Sohaib ,4th,4
+110,CSI-403,DS,Ali Zafar,3rd,3
+111,CSI-405,JAVA,Ahmad Adnan,4th,3
+111,CSI-308,OOP,Umar  ,2nd,4
+111,CSI-403,DS,Naeem Abbas ,3rd,4
+111,CSI-405,JAVA, Sohaib ,4th,3
+111,CSI-403,DS,Ali Zafar,3rd,3
+111,CSI-405,JAVA,Ahmad Adnan,4th,3
+111,CSI-308,OOP,Umar  ,2nd,4
+112,CSI-403,DS,Naeem Abbas ,3rd,3
+112,CSI-405,JAVA, Sohaib ,4th,3
+112,CSI-403,DS,Ali Zafar,3rd,3
+112,CSI-405,JAVA,Ahmad Adnan,4th,3
+112,CSI-308,OOP,Umar  ,2nd,3
+112,CSI-403,DS,Naeem Abbas ,3rd,3
+112,CSI-405,JAVA, Sohaib ,4th,4
+113,CSI-403,DS,Ali Zafar,3rd,3
+113,CSI-405,JAVA,Ahmad Adnan,4th,3
+113,CSI-308,OOP,Umar  ,2nd,3
+113,CSI-403,DS,Naeem Abbas ,3rd,3
+113,CSI-405,JAVA, Sohaib ,4th,4
+113,CSI-403,DS,Ali Zafar,3rd,3
+114,CSI-405,JAVA,Ahmad Adnan,4th,4
+114,CSI-308,OOP,Umar  ,2nd,4
+114,CSI-403,DS,Naeem Abbas ,3rd,3
+114,CSI-405,JAVA, Sohaib ,4th,3
+114,CSI-403,DS,Ali Zafar,3rd,3
+114,CSI-405,JAVA,Ahmad Adnan,4th,4
+114,CSI-308,OOP,Umar  ,2nd,3
+115,CSI-403,DS,Naeem Abbas ,3rd,2
+115,CSI-405,JAVA, Sohaib ,4th,3
+115,CSI-403,DS,Ali Zafar,3rd,4
+115,CSI-405,JAVA,Ahmad Adnan,4th,3
+115,CSI-308,OOP,Umar  ,2nd,4
+115,CSI-403,DS,Naeem Abbas ,3rd,3
+116,CSI-405,JAVA, Sohaib ,4th,3
+116,CSI-403,DS,Ali Zafar,3rd,4
+116,CSI-405,JAVA,Ahmad Adnan,4th,3
+116,CSI-308,OOP,Umar  ,2nd,3
+116,CSI-403,DS,Naeem Abbas ,3rd,2
+116,CSI-405,JAVA, Sohaib ,4th,3
+116,CSI-403,DS,Ali Zafar,3rd,2
+117,CSI-405,JAVA,Ahmad Adnan,4th,3
+117,CSI-308,OOP,Umar  ,2nd,3
+117,CSI-403,DS,Naeem Abbas ,3rd,4
+117,CSI-405,JAVA, Sohaib ,4th,3
+117,CSI-403,DS,Ali Zafar,3rd,4
+117,CSI-405,JAVA,Ahmad Adnan,4th,4
+117,CSI-308,OOP,Umar  ,2nd,4
+118,CSI-403,DS,Naeem Abbas ,3rd,4
+118,CSI-405,JAVA, Sohaib ,4th,3
+118,CSI-403,DS,Ali Zafar,3rd,3
+118,CSI-405,JAVA,Ahmad Adnan,4th,3
+118,CSI-308,OOP,Umar  ,2nd,4
+118,CSI-403,DS,Naeem Abbas ,3rd,3
+119,CSI-405,JAVA, Sohaib ,4th,2
+119,CSI-403,DS,Ali Zafar,3rd,3
+119,CSI-405,JAVA,Ahmad Adnan,4th,4
+119,CSI-308,OOP,Umar  ,2nd,3
+119,CSI-403,DS,Naeem Abbas ,3rd,4
+119,CSI-405,JAVA, Sohaib ,4th,3
+119,CSI-403,DS,Ali Zafar,3rd,3
+120,CSI-405,JAVA,Ahmad Adnan,4th,4
+120,CSI-308,OOP,Umar  ,2nd,3
+120,CSI-403,DS,Naeem Abbas ,3rd,3
+120,CSI-405,JAVA, Sohaib ,4th,2
+120,CSI-403,DS,Ali Zafar,3rd,3
+120,CSI-405,JAVA,Ahmad Adnan,4th,2
+121,CSI-308,OOP,Umar  ,2nd,4
+121,CSI-403,DS,Naeem Abbas ,3rd,3
+121,CSI-405,JAVA, Sohaib ,4th,3
+121,CSI-403,DS,Ali Zafar,3rd,3
+121,CSI-405,JAVA,Ahmad Adnan,4th,4
+121,CSI-308,OOP,Umar  ,2nd,3
+121,CSI-403,DS,Naeem Abbas ,3rd,2
+122,CSI-405,JAVA, Sohaib ,4th,3
+122,CSI-403,DS,Ali Zafar,3rd,4
+122,CSI-405,JAVA,Ahmad Adnan,4th,3
+122,CSI-308,OOP,Umar  ,2nd,4
+122,CSI-403,DS,Naeem Abbas ,3rd,3
+122,CSI-405,JAVA, Sohaib ,4th,3
+122,CSI-403,DS,Ali Zafar,3rd,4
+123,CSI-405,JAVA,Ahmad Adnan,4th,3
+123,CSI-308,OOP,Umar  ,2nd,3
+123,CSI-403,DS,Naeem Abbas ,3rd,2
+123,CSI-405,JAVA, Sohaib ,4th,3
+123,CSI-403,DS,Ali Zafar,3rd,2
+123,CSI-405,JAVA,Ahmad Adnan,4th,2
+124,CSI-308,OOP,Umar  ,2nd,3
+124,CSI-403,DS,Naeem Abbas ,3rd,4
+124,CSI-405,JAVA, Sohaib ,4th,3
+124,CSI-403,DS,Ali Zafar,3rd,4
+124,CSI-405,JAVA,Ahmad Adnan,4th,3
+124,CSI-308,OOP,Umar  ,2nd,3
+124,CSI-403,DS,Naeem Abbas ,3rd,4
+125,CSI-405,JAVA, Sohaib ,4th,3
+125,CSI-403,DS,Ali Zafar,3rd,3
+125,CSI-405,JAVA,Ahmad Adnan,4th,2
+125,CSI-308,OOP,Umar  ,2nd,3
+125,CSI-403,DS,Naeem Abbas ,3rd,2
+125,CSI-405,JAVA, Sohaib ,4th,4
+126,CSI-403,DS,Ali Zafar,3rd,3
+126,CSI-405,JAVA,Ahmad Adnan,4th,3
+126,CSI-308,OOP,Umar  ,2nd,3
+126,CSI-403,DS,Naeem Abbas ,3rd,4
+126,CSI-405,JAVA, Sohaib ,4th,3
+126,CSI-403,DS,Ali Zafar,3rd,2
+126,CSI-405,JAVA,Ahmad Adnan,4th,4
+127,CSI-308,OOP,Umar  ,2nd,3
+127,CSI-403,DS,Naeem Abbas ,3rd,4
+127,CSI-405,JAVA, Sohaib ,4th,4
+127,CSI-403,DS,Ali Zafar,3rd,4
+127,CSI-405,JAVA,Ahmad Adnan,4th,4
+127,CSI-308,OOP,Umar  ,2nd,4
+127,CSI-403,DS,Naeem Abbas ,3rd,3
+128,CSI-405,JAVA, Sohaib ,4th,3
+128,CSI-403,DS,Ali Zafar,3rd,3
+128,CSI-405,JAVA,Ahmad Adnan,4th,3
+128,CSI-308,OOP,Umar  ,2nd,4
+128,CSI-403,DS,Naeem Abbas ,3rd,3
+128,CSI-405,JAVA, Sohaib ,4th,4
+129,CSI-403,DS,Ali Zafar,3rd,4
+129,CSI-405,JAVA,Ahmad Adnan,4th,4
+129,CSI-308,OOP,Umar  ,2nd,4
+129,CSI-403,DS,Naeem Abbas ,3rd,4
+129,CSI-405,JAVA, Sohaib ,4th,4
+129,CSI-403,DS,Ali Zafar,3rd,3
+129,CSI-405,JAVA,Ahmad Adnan,4th,4
+130,CSI-308,OOP,Umar  ,2nd,4
+130,CSI-403,DS,Naeem Abbas ,3rd,4
+130,CSI-405,JAVA, Sohaib ,4th,4
+130,CSI-403,DS,Ali Zafar,3rd,4
+130,CSI-405,JAVA,Ahmad Adnan,4th,4
+130,CSI-308,OOP,Umar  ,2nd,3
+131,CSI-403,DS,Naeem Abbas ,3rd,4
+131,CSI-405,JAVA, Sohaib ,4th,4
+131,CSI-403,DS,Ali Zafar,3rd,4
+131,CSI-405,JAVA,Ahmad Adnan,4th,4
+131,CSI-308,OOP,Umar  ,2nd,4
+131,CSI-403,DS,Naeem Abbas ,3rd,4
+131,CSI-405,JAVA, Sohaib ,4th,4
+132,CSI-403,DS,Ali Zafar,3rd,4
+132,CSI-405,JAVA,Ahmad Adnan,4th,3
+132,CSI-308,OOP,Umar  ,2nd,4
+132,CSI-403,DS,Naeem Abbas ,3rd,4
+132,CSI-405,JAVA, Sohaib ,4th,4
+132,CSI-403,DS,Ali Zafar,3rd,4
+132,CSI-405,JAVA,Ahmad Adnan,4th,4
+133,CSI-308,OOP,Umar  ,2nd,4
+133,CSI-403,DS,Naeem Abbas ,3rd,3
+133,CSI-405,JAVA, Sohaib ,4th,4
+133,CSI-403,DS,Ali Zafar,3rd,4
+133,CSI-405,JAVA,Ahmad Adnan,4th,3
+133,CSI-308,OOP,Umar  ,2nd,3
+134,CSI-403,DS,Naeem Abbas ,3rd,3
+134,CSI-405,JAVA, Sohaib ,4th,4
+134,CSI-403,DS,Ali Zafar,3rd,3
+134,CSI-405,JAVA,Ahmad Adnan,4th,2
+134,CSI-308,OOP,Umar  ,2nd,3
+134,CSI-403,DS,Naeem Abbas ,3rd,4
+134,CSI-405,JAVA, Sohaib ,4th,3
+135,CSI-403,DS,Ali Zafar,3rd,4
+135,CSI-405,JAVA,Ahmad Adnan,4th,3
+135,CSI-308,OOP,Umar  ,2nd,3
+135,CSI-403,DS,Naeem Abbas ,3rd,4
+135,CSI-405,JAVA, Sohaib ,4th,3
+135,CSI-403,DS,Ali Zafar,3rd,3
+136,CSI-405,JAVA,Ahmad Adnan,4th,4
+136,CSI-308,OOP,Umar  ,2nd,3
+136,CSI-403,DS,Naeem Abbas ,3rd,3
+136,CSI-405,JAVA, Sohaib ,4th,4
+136,CSI-403,DS,Ali Zafar,3rd,4
+136,CSI-405,JAVA,Ahmad Adnan,4th,3
+136,CSI-308,OOP,Umar  ,2nd,3
+137,CSI-403,DS,Naeem Abbas ,3rd,3
+137,CSI-405,JAVA, Sohaib ,4th,4
+137,CSI-403,DS,Ali Zafar,3rd,3
+137,CSI-405,JAVA,Ahmad Adnan,4th,3
+137,CSI-308,OOP,Umar  ,2nd,3
+137,CSI-403,DS,Naeem Abbas ,3rd,3
+137,CSI-405,JAVA, Sohaib ,4th,3
+138,CSI-403,DS,Ali Zafar,3rd,3
+138,CSI-405,JAVA,Ahmad Adnan,4th,4
+138,CSI-308,OOP,Umar  ,2nd,3
+138,CSI-403,DS,Naeem Abbas ,3rd,3
+138,CSI-405,JAVA, Sohaib ,4th,3
+138,CSI-403,DS,Ali Zafar,3rd,3
+139,CSI-405,JAVA,Ahmad Adnan,4th,4
+139,CSI-308,OOP,Umar  ,2nd,3
+139,CSI-403,DS,Naeem Abbas ,3rd,4
+139,CSI-405,JAVA, Sohaib ,4th,4
+139,CSI-403,DS,Ali Zafar,3rd,3
+139,CSI-405,JAVA,Ahmad Adnan,4th,3
+139,CSI-308,OOP,Umar  ,2nd,3
+140,CSI-403,DS,Naeem Abbas ,3rd,4
+140,CSI-405,JAVA, Sohaib ,4th,3
+140,CSI-403,DS,Ali Zafar,3rd,2
+140,CSI-405,JAVA,Ahmad Adnan,4th,3
+140,CSI-308,OOP,Umar  ,2nd,4
+140,CSI-403,DS,Naeem Abbas ,3rd,3
+141,CSI-405,JAVA, Sohaib ,4th,4
+141,CSI-403,DS,Ali Zafar,3rd,3
+141,CSI-405,JAVA,Ahmad Adnan,4th,3
+141,CSI-308,OOP,Umar  ,2nd,4
+141,CSI-403,DS,Naeem Abbas ,3rd,3
+141,CSI-405,JAVA, Sohaib ,4th,3
+141,CSI-403,DS,Ali Zafar,3rd,2
+142,CSI-405,JAVA,Ahmad Adnan,4th,3
+142,CSI-308,OOP,Umar  ,2nd,2
+142,CSI-403,DS,Naeem Abbas ,3rd,3
+142,CSI-405,JAVA, Sohaib ,4th,3
+142,CSI-403,DS,Ali Zafar,3rd,4
+142,CSI-405,JAVA,Ahmad Adnan,4th,3
+142,CSI-308,OOP,Umar  ,2nd,4
+143,CSI-403,DS,Naeem Abbas ,3rd,4
+143,CSI-405,JAVA, Sohaib ,4th,4
+143,CSI-403,DS,Ali Zafar,3rd,4
+143,CSI-405,JAVA,Ahmad Adnan,4th,3
+143,CSI-308,OOP,Umar  ,2nd,3
+143,CSI-403,DS,Naeem Abbas ,3rd,3
+144,CSI-405,JAVA, Sohaib ,4th,4
+144,CSI-403,DS,Ali Zafar,3rd,3
+144,CSI-405,JAVA,Ahmad Adnan,4th,2
+144,CSI-308,OOP,Umar  ,2nd,3
+144,CSI-403,DS,Naeem Abbas ,3rd,4
+144,CSI-405,JAVA, Sohaib ,4th,3
+144,CSI-403,DS,Ali Zafar,3rd,4
+145,CSI-405,JAVA,Ahmad Adnan,4th,3
+145,CSI-308,OOP,Umar  ,2nd,3
+145,CSI-403,DS,Naeem Abbas ,3rd,4
+145,CSI-405,JAVA, Sohaib ,4th,3
+145,CSI-403,DS,Ali Zafar,3rd,3
+145,CSI-405,JAVA,Ahmad Adnan,4th,2
+146,CSI-308,OOP,Umar  ,2nd,3
+146,CSI-403,DS,Naeem Abbas ,3rd,2
+146,CSI-405,JAVA, Sohaib ,4th,4
+146,CSI-403,DS,Ali Zafar,3rd,3
+146,CSI-405,JAVA,Ahmad Adnan,4th,3
+146,CSI-308,OOP,Umar  ,2nd,3
+146,CSI-403,DS,Naeem Abbas ,3rd,4
+147,CSI-405,JAVA, Sohaib ,4th,3
+147,CSI-403,DS,Ali Zafar,3rd,2
+147,CSI-405,JAVA,Ahmad Adnan,4th,3
+147,CSI-308,OOP,Umar  ,2nd,4
+147,CSI-403,DS,Naeem Abbas ,3rd,3
+147,CSI-405,JAVA, Sohaib ,4th,4
+147,CSI-403,DS,Ali Zafar,3rd,3
+148,CSI-405,JAVA,Ahmad Adnan,4th,3
+148,CSI-308,OOP,Umar  ,2nd,4
+148,CSI-403,DS,Naeem Abbas ,3rd,3
+148,CSI-405,JAVA, Sohaib ,4th,3
+148,CSI-403,DS,Ali Zafar,3rd,2
+148,CSI-405,JAVA,Ahmad Adnan,4th,3
+149,CSI-308,OOP,Umar  ,2nd,2
+149,CSI-403,DS,Naeem Abbas ,3rd,2
+149,CSI-405,JAVA, Sohaib ,4th,3
+149,CSI-403,DS,Ali Zafar,3rd,4
+149,CSI-405,JAVA,Ahmad Adnan,4th,3
+149,CSI-308,OOP,Umar  ,2nd,4
+149,CSI-403,DS,Naeem Abbas ,3rd,3
+150,CSI-405,JAVA, Sohaib ,4th,3
+150,CSI-403,DS,Ali Zafar,3rd,4
+150,CSI-405,JAVA,Ahmad Adnan,4th,3
+150,CSI-308,OOP,Umar  ,2nd,3
+150,CSI-403,DS,Naeem Abbas ,3rd,2
+150,CSI-405,JAVA, Sohaib ,4th,3
+151,CSI-403,DS,Ali Zafar,3rd,2
+151,CSI-405,JAVA,Ahmad Adnan,4th,4
+151,CSI-308,OOP,Umar  ,2nd,3
+151,CSI-403,DS,Naeem Abbas ,3rd,4
+151,CSI-405,JAVA, Sohaib ,4th,3
+151,CSI-403,DS,Ali Zafar,3rd,4
+151,CSI-405,JAVA,Ahmad Adnan,4th,4
+152,CSI-308,OOP,Umar  ,2nd,4
+152,CSI-403,DS,Naeem Abbas ,3rd,4
+152,CSI-405,JAVA, Sohaib ,4th,4
+152,CSI-403,DS,Ali Zafar,3rd,3
+152,CSI-405,JAVA,Ahmad Adnan,4th,3
+152,CSI-308,OOP,Umar  ,2nd,3
+152,CSI-403,DS,Naeem Abbas ,3rd,3
+153,CSI-405,JAVA, Sohaib ,4th,4
+153,CSI-403,DS,Ali Zafar,3rd,3
+153,CSI-405,JAVA,Ahmad Adnan,4th,4
+153,CSI-308,OOP,Umar  ,2nd,4
+153,CSI-403,DS,Naeem Abbas ,3rd,4
+153,CSI-405,JAVA, Sohaib ,4th,4
+154,CSI-403,DS,Ali Zafar,3rd,4
+154,CSI-405,JAVA,Ahmad Adnan,4th,4
+154,CSI-308,OOP,Umar  ,2nd,3
+154,CSI-403,DS,Naeem Abbas ,3rd,4
+154,CSI-405,JAVA, Sohaib ,4th,4
+154,CSI-403,DS,Ali Zafar,3rd,4
+154,CSI-405,JAVA,Ahmad Adnan,4th,4
+155,CSI-308,OOP,Umar  ,2nd,4
+155,CSI-403,DS,Naeem Abbas ,3rd,4
+155,CSI-405,JAVA, Sohaib ,4th,3
+155,CSI-403,DS,Ali Zafar,3rd,4
+155,CSI-405,JAVA,Ahmad Adnan,4th,4
+155,CSI-308,OOP,Umar  ,2nd,4
+156,CSI-403,DS,Naeem Abbas ,3rd,4
+156,CSI-405,JAVA, Sohaib ,4th,4
+156,CSI-403,DS,Ali Zafar,3rd,4
+156,CSI-405,JAVA,Ahmad Adnan,4th,4
+156,CSI-308,OOP,Umar  ,2nd,4
+156,CSI-403,DS,Naeem Abbas ,3rd,3
+156,CSI-405,JAVA, Sohaib ,4th,4
+157,CSI-403,DS,Ali Zafar,3rd,4
+157,CSI-405,JAVA,Ahmad Adnan,4th,4
+157,CSI-308,OOP,Umar  ,2nd,4
+157,CSI-403,DS,Naeem Abbas ,3rd,4
+157,CSI-405,JAVA, Sohaib ,4th,4
+157,CSI-403,DS,Ali Zafar,3rd,3
+157,CSI-405,JAVA,Ahmad Adnan,4th,4
+158,CSI-308,OOP,Umar  ,2nd,4
+158,CSI-403,DS,Naeem Abbas ,3rd,3
+158,CSI-405,JAVA, Sohaib ,4th,3
+158,CSI-403,DS,Ali Zafar,3rd,3
+158,CSI-405,JAVA,Ahmad Adnan,4th,4
+158,CSI-308,OOP,Umar  ,2nd,3
+159,CSI-403,DS,Naeem Abbas ,3rd,2
+159,CSI-405,JAVA, Sohaib ,4th,3
+159,CSI-403,DS,Ali Zafar,3rd,4
+159,CSI-405,JAVA,Ahmad Adnan,4th,3
+159,CSI-308,OOP,Umar  ,2nd,4
+159,CSI-403,DS,Naeem Abbas ,3rd,3
+159,CSI-405,JAVA, Sohaib ,4th,3
+160,CSI-403,DS,Ali Zafar,3rd,4
+160,CSI-405,JAVA,Ahmad Adnan,4th,3
+160,CSI-308,OOP,Umar  ,2nd,3
+160,CSI-403,DS,Naeem Abbas ,3rd,4
+160,CSI-405,JAVA, Sohaib ,4th,3
+160,CSI-403,DS,Ali Zafar,3rd,3
+161,CSI-405,JAVA,Ahmad Adnan,4th,4
+161,CSI-308,OOP,Umar  ,2nd,4
+161,CSI-403,DS,Naeem Abbas ,3rd,3
+161,CSI-405,JAVA, Sohaib ,4th,3
+161,CSI-403,DS,Ali Zafar,3rd,3
+161,CSI-405,JAVA,Ahmad Adnan,4th,4
+161,CSI-308,OOP,Umar  ,2nd,3
+162,CSI-403,DS,Naeem Abbas ,3rd,3
+162,CSI-405,JAVA, Sohaib ,4th,3
+162,CSI-403,DS,Ali Zafar,3rd,3
+162,CSI-405,JAVA,Ahmad Adnan,4th,3
+162,CSI-308,OOP,Umar  ,2nd,3
+162,CSI-403,DS,Naeem Abbas ,3rd,4
+162,CSI-405,JAVA, Sohaib ,4th,3
+163,CSI-403,DS,Ali Zafar,3rd,3
+163,CSI-405,JAVA,Ahmad Adnan,4th,3
+163,CSI-308,OOP,Umar  ,2nd,3
+163,CSI-403,DS,Naeem Abbas ,3rd,4
+163,CSI-405,JAVA, Sohaib ,4th,3
+163,CSI-403,DS,Ali Zafar,3rd,4
+164,CSI-405,JAVA,Ahmad Adnan,4th,4
+164,CSI-308,OOP,Umar  ,2nd,3
+164,CSI-403,DS,Naeem Abbas ,3rd,3
+164,CSI-405,JAVA, Sohaib ,4th,3
+164,CSI-403,DS,Ali Zafar,3rd,4
+164,CSI-405,JAVA,Ahmad Adnan,4th,3
+164,CSI-308,OOP,Umar  ,2nd,2
+165,CSI-403,DS,Naeem Abbas ,3rd,3
+165,CSI-405,JAVA, Sohaib ,4th,4
+165,CSI-403,DS,Ali Zafar,3rd,3
+165,CSI-405,JAVA,Ahmad Adnan,4th,4
+165,CSI-308,OOP,Umar  ,2nd,3
+165,CSI-403,DS,Naeem Abbas ,3rd,3
+166,CSI-405,JAVA, Sohaib ,4th,4
+166,CSI-403,DS,Ali Zafar,3rd,3
+166,CSI-405,JAVA,Ahmad Adnan,4th,3
+166,CSI-308,OOP,Umar  ,2nd,2
+166,CSI-403,DS,Naeem Abbas ,3rd,3
+166,CSI-405,JAVA, Sohaib ,4th,2
+166,CSI-403,DS,Ali Zafar,3rd,3
+167,CSI-405,JAVA,Ahmad Adnan,4th,3
+167,CSI-308,OOP,Umar  ,2nd,4
+167,CSI-403,DS,Naeem Abbas ,3rd,3
+167,CSI-405,JAVA, Sohaib ,4th,4
+167,CSI-403,DS,Ali Zafar,3rd,4
+167,CSI-405,JAVA,Ahmad Adnan,4th,4
+167,CSI-308,OOP,Umar  ,2nd,4
+168,CSI-403,DS,Naeem Abbas ,3rd,3
+168,CSI-405,JAVA, Sohaib ,4th,3
+168,CSI-403,DS,Ali Zafar,3rd,3
+168,CSI-405,JAVA,Ahmad Adnan,4th,4
+168,CSI-308,OOP,Umar  ,2nd,3
+168,CSI-403,DS,Naeem Abbas ,3rd,2
+169,CSI-405,JAVA, Sohaib ,4th,3
+169,CSI-403,DS,Ali Zafar,3rd,4
+169,CSI-405,JAVA,Ahmad Adnan,4th,3
+169,CSI-308,OOP,Umar  ,2nd,4
+169,CSI-403,DS,Naeem Abbas ,3rd,3
+169,CSI-405,JAVA, Sohaib ,4th,3
+169,CSI-403,DS,Ali Zafar,3rd,4
+170,CSI-405,JAVA,Ahmad Adnan,4th,3
+170,CSI-308,OOP,Umar  ,2nd,3
+170,CSI-403,DS,Naeem Abbas ,3rd,2
+170,CSI-405,JAVA, Sohaib ,4th,3
+170,CSI-403,DS,Ali Zafar,3rd,2
+170,CSI-405,JAVA,Ahmad Adnan,4th,4
+171,CSI-308,OOP,Umar  ,2nd,3
+171,CSI-403,DS,Naeem Abbas ,3rd,3
+171,CSI-405,JAVA, Sohaib ,4th,3
+171,CSI-403,DS,Ali Zafar,3rd,4
+171,CSI-405,JAVA,Ahmad Adnan,4th,3
+171,CSI-308,OOP,Umar  ,2nd,2
+171,CSI-403,DS,Naeem Abbas ,3rd,3
+172,CSI-405,JAVA, Sohaib ,4th,4
+172,CSI-403,DS,Ali Zafar,3rd,3
+172,CSI-405,JAVA,Ahmad Adnan,4th,4
+172,CSI-308,OOP,Umar  ,2nd,3
+172,CSI-403,DS,Naeem Abbas ,3rd,3
+172,CSI-405,JAVA, Sohaib ,4th,4
+172,CSI-403,DS,Ali Zafar,3rd,3
+173,CSI-405,JAVA,Ahmad Adnan,4th,3
+173,CSI-308,OOP,Umar  ,2nd,2
+173,CSI-403,DS,Naeem Abbas ,3rd,3
+173,CSI-405,JAVA, Sohaib ,4th,2
+173,CSI-403,DS,Ali Zafar,3rd,2
+173,CSI-405,JAVA,Ahmad Adnan,4th,3
+174,CSI-308,OOP,Umar  ,2nd,4
+174,CSI-403,DS,Naeem Abbas ,3rd,3
+174,CSI-405,JAVA, Sohaib ,4th,4
+174,CSI-403,DS,Ali Zafar,3rd,3
+174,CSI-405,JAVA,Ahmad Adnan,4th,3
+174,CSI-308,OOP,Umar  ,2nd,4
+174,CSI-403,DS,Naeem Abbas ,3rd,3
+175,CSI-405,JAVA, Sohaib ,4th,3
+175,CSI-403,DS,Ali Zafar,3rd,2
+175,CSI-405,JAVA,Ahmad Adnan,4th,3
+175,CSI-308,OOP,Umar  ,2nd,2
+175,CSI-403,DS,Naeem Abbas ,3rd,4
+175,CSI-405,JAVA, Sohaib ,4th,3
+176,CSI-403,DS,Ali Zafar,3rd,3
+176,CSI-405,JAVA,Ahmad Adnan,4th,3
+176,CSI-308,OOP,Umar  ,2nd,4
+176,CSI-403,DS,Naeem Abbas ,3rd,3
+176,CSI-405,JAVA, Sohaib ,4th,2
+176,CSI-403,DS,Ali Zafar,3rd,4
+176,CSI-405,JAVA,Ahmad Adnan,4th,3
+177,CSI-308,OOP,Umar  ,2nd,4
+177,CSI-403,DS,Naeem Abbas ,3rd,4
+177,CSI-405,JAVA, Sohaib ,4th,4
+177,CSI-403,DS,Ali Zafar,3rd,4
+177,CSI-405,JAVA,Ahmad Adnan,4th,4
+177,CSI-308,OOP,Umar  ,2nd,3
+177,CSI-403,DS,Naeem Abbas ,3rd,3
+178,CSI-405,JAVA, Sohaib ,4th,3
+178,CSI-403,DS,Ali Zafar,3rd,3
+178,CSI-405,JAVA,Ahmad Adnan,4th,4
+178,CSI-308,OOP,Umar  ,2nd,3
+178,CSI-403,DS,Naeem Abbas ,3rd,4
+178,CSI-405,JAVA, Sohaib ,4th,4
+179,CSI-403,DS,Ali Zafar,3rd,4
+179,CSI-405,JAVA,Ahmad Adnan,4th,4
+179,CSI-308,OOP,Umar  ,2nd,4
+179,CSI-403,DS,Naeem Abbas ,3rd,4
+179,CSI-405,JAVA, Sohaib ,4th,3
+179,CSI-403,DS,Ali Zafar,3rd,4
+179,CSI-405,JAVA,Ahmad Adnan,4th,4
+180,CSI-308,OOP,Umar  ,2nd,4
+180,CSI-403,DS,Naeem Abbas ,3rd,4
+180,CSI-405,JAVA, Sohaib ,4th,4
+180,CSI-403,DS,Ali Zafar,3rd,4
+180,CSI-405,JAVA,Ahmad Adnan,4th,3
+180,CSI-308,OOP,Umar  ,2nd,4
+181,CSI-403,DS,Naeem Abbas ,3rd,4
+181,CSI-405,JAVA, Sohaib ,4th,4
+181,CSI-403,DS,Ali Zafar,3rd,4
+181,CSI-405,JAVA,Ahmad Adnan,4th,4
+181,CSI-308,OOP,Umar  ,2nd,4
+181,CSI-403,DS,Naeem Abbas ,3rd,4
+181,CSI-405,JAVA, Sohaib ,4th,4
+182,CSI-403,DS,Ali Zafar,3rd,3
+182,CSI-405,JAVA,Ahmad Adnan,4th,4
+182,CSI-308,OOP,Umar  ,2nd,4
+182,CSI-403,DS,Naeem Abbas ,3rd,4
+182,CSI-405,JAVA, Sohaib ,4th,4
+182,CSI-403,DS,Ali Zafar,3rd,4
+182,CSI-405,JAVA,Ahmad Adnan,4th,4
+183,CSI-308,OOP,Umar  ,2nd,3
+183,CSI-403,DS,Naeem Abbas ,3rd,4
+183,CSI-405,JAVA, Sohaib ,4th,4
+183,CSI-403,DS,Ali Zafar,3rd,3
+183,CSI-405,JAVA,Ahmad Adnan,4th,3
+183,CSI-308,OOP,Umar  ,2nd,3
+184,CSI-403,DS,Naeem Abbas ,3rd,4
+184,CSI-405,JAVA, Sohaib ,4th,3
+184,CSI-403,DS,Ali Zafar,3rd,2
+184,CSI-405,JAVA,Ahmad Adnan,4th,3
+184,CSI-308,OOP,Umar  ,2nd,4
+184,CSI-403,DS,Naeem Abbas ,3rd,3
+184,CSI-405,JAVA, Sohaib ,4th,4
+185,CSI-403,DS,Ali Zafar,3rd,3
+185,CSI-405,JAVA,Ahmad Adnan,4th,3
+185,CSI-308,OOP,Umar  ,2nd,4
+185,CSI-403,DS,Naeem Abbas ,3rd,3
+185,CSI-405,JAVA, Sohaib ,4th,3
+185,CSI-403,DS,Ali Zafar,3rd,4
+186,CSI-405,JAVA,Ahmad Adnan,4th,3
+186,CSI-308,OOP,Umar  ,2nd,3
+186,CSI-403,DS,Naeem Abbas ,3rd,4
+186,CSI-405,JAVA, Sohaib ,4th,4
+186,CSI-403,DS,Ali Zafar,3rd,3
+186,CSI-405,JAVA,Ahmad Adnan,4th,3
+186,CSI-308,OOP,Umar  ,2nd,3
+187,CSI-403,DS,Naeem Abbas ,3rd,4
+187,CSI-405,JAVA, Sohaib ,4th,3
+187,CSI-403,DS,Ali Zafar,3rd,3
+187,CSI-405,JAVA,Ahmad Adnan,4th,3
+187,CSI-308,OOP,Umar  ,2nd,3
+187,CSI-403,DS,Naeem Abbas ,3rd,3
+187,CSI-405,JAVA, Sohaib ,4th,3
+188,CSI-403,DS,Ali Zafar,3rd,4
+188,CSI-405,JAVA,Ahmad Adnan,4th,3
+188,CSI-308,OOP,Umar  ,2nd,3
+188,CSI-403,DS,Naeem Abbas ,3rd,3
+188,CSI-405,JAVA, Sohaib ,4th,3
+188,CSI-403,DS,Ali Zafar,3rd,4
+189,CSI-405,JAVA,Ahmad Adnan,4th,3
+189,CSI-308,OOP,Umar  ,2nd,4
+189,CSI-403,DS,Naeem Abbas ,3rd,4
+189,CSI-405,JAVA, Sohaib ,4th,3
+189,CSI-403,DS,Ali Zafar,3rd,3
+189,CSI-405,JAVA,Ahmad Adnan,4th,3
+189,CSI-308,OOP,Umar  ,2nd,4
+190,CSI-403,DS,Naeem Abbas ,3rd,3
+190,CSI-405,JAVA, Sohaib ,4th,2
+190,CSI-403,DS,Ali Zafar,3rd,3
+190,CSI-405,JAVA,Ahmad Adnan,4th,4
+190,CSI-308,OOP,Umar  ,2nd,3
+190,CSI-403,DS,Naeem Abbas ,3rd,4
+191,CSI-405,JAVA, Sohaib ,4th,3
+191,CSI-403,DS,Ali Zafar,3rd,3
+191,CSI-405,JAVA,Ahmad Adnan,4th,4
+191,CSI-308,OOP,Umar  ,2nd,3
+191,CSI-403,DS,Naeem Abbas ,3rd,3
+191,CSI-405,JAVA, Sohaib ,4th,2
+191,CSI-403,DS,Ali Zafar,3rd,3
+192,CSI-405,JAVA,Ahmad Adnan,4th,2
+192,CSI-308,OOP,Umar  ,2nd,3
+192,CSI-403,DS,Naeem Abbas ,3rd,3
+192,CSI-405,JAVA, Sohaib ,4th,4
+192,CSI-403,DS,Ali Zafar,3rd,3
+192,CSI-405,JAVA,Ahmad Adnan,4th,4
+192,CSI-308,OOP,Umar  ,2nd,4
+193,CSI-403,DS,Naeem Abbas ,3rd,4
+193,CSI-405,JAVA, Sohaib ,4th,4
+193,CSI-403,DS,Ali Zafar,3rd,3
+193,CSI-405,JAVA,Ahmad Adnan,4th,3
+193,CSI-308,OOP,Umar  ,2nd,3
+193,CSI-403,DS,Naeem Abbas ,3rd,4
+194,CSI-405,JAVA, Sohaib ,4th,3
+194,CSI-403,DS,Ali Zafar,3rd,2
+194,CSI-405,JAVA,Ahmad Adnan,4th,3
+194,CSI-308,OOP,Umar  ,2nd,4
+194,CSI-403,DS,Naeem Abbas ,3rd,3
+194,CSI-405,JAVA, Sohaib ,4th,4
+194,CSI-403,DS,Ali Zafar,3rd,3
+195,CSI-405,JAVA,Ahmad Adnan,4th,3
+195,CSI-308,OOP,Umar  ,2nd,4
+195,CSI-403,DS,Naeem Abbas ,3rd,3
+195,CSI-405,JAVA, Sohaib ,4th,3
+195,CSI-403,DS,Ali Zafar,3rd,2
+195,CSI-405,JAVA,Ahmad Adnan,4th,3
+196,CSI-308,OOP,Umar  ,2nd,2
+196,CSI-403,DS,Naeem Abbas ,3rd,4
+196,CSI-405,JAVA, Sohaib ,4th,3
+196,CSI-403,DS,Ali Zafar,3rd,3
+196,CSI-405,JAVA,Ahmad Adnan,4th,3
+196,CSI-308,OOP,Umar  ,2nd,4
+196,CSI-403,DS,Naeem Abbas ,3rd,3
+197,CSI-405,JAVA, Sohaib ,4th,2
+197,CSI-403,DS,Ali Zafar,3rd,3
+197,CSI-405,JAVA,Ahmad Adnan,4th,4
+197,CSI-308,OOP,Umar  ,2nd,3
+197,CSI-403,DS,Naeem Abbas ,3rd,4
+197,CSI-405,JAVA, Sohaib ,4th,3
+197,CSI-403,DS,Ali Zafar,3rd,3
+198,CSI-405,JAVA,Ahmad Adnan,4th,4
+198,CSI-308,OOP,Umar  ,2nd,3
+198,CSI-403,DS,Naeem Abbas ,3rd,3
+198,CSI-405,JAVA, Sohaib ,4th,2
+198,CSI-403,DS,Ali Zafar,3rd,3
+198,CSI-405,JAVA,Ahmad Adnan,4th,2
+199,CSI-308,OOP,Umar  ,2nd,2
+199,CSI-403,DS,Naeem Abbas ,3rd,3
+199,CSI-405,JAVA, Sohaib ,4th,4
+199,CSI-403,DS,Ali Zafar,3rd,3
+199,CSI-405,JAVA,Ahmad Adnan,4th,4
+199,CSI-308,OOP,Umar  ,2nd,3
+199,CSI-403,DS,Naeem Abbas ,3rd,3
+200,CSI-405,JAVA, Sohaib ,4th,4
+200,CSI-403,DS,Ali Zafar,3rd,3
+200,CSI-405,JAVA,Ahmad Adnan,4th,3
+200,CSI-308,OOP,Umar  ,2nd,2
+200,CSI-403,DS,Naeem Abbas ,3rd,3
+200,CSI-405,JAVA, Sohaib ,4th,2
+201,CSI-403,DS,Ali Zafar,3rd,4
+201,CSI-405,JAVA,Ahmad Adnan,4th,3
+201,CSI-308,OOP,Umar  ,2nd,3
+201,CSI-403,DS,Naeem Abbas ,3rd,3
+201,CSI-405,JAVA, Sohaib ,4th,4
+201,CSI-403,DS,Ali Zafar,3rd,3
+201,CSI-405,JAVA,Ahmad Adnan,4th,4
+202,CSI-308,OOP,Umar  ,2nd,4
+202,CSI-403,DS,Naeem Abbas ,3rd,4
+202,CSI-405,JAVA, Sohaib ,4th,4
+202,CSI-403,DS,Ali Zafar,3rd,4
+202,CSI-405,JAVA,Ahmad Adnan,4th,3
+202,CSI-308,OOP,Umar  ,2nd,3
+202,CSI-403,DS,Naeem Abbas ,3rd,3
+203,CSI-405,JAVA, Sohaib ,4th,3
+203,CSI-403,DS,Ali Zafar,3rd,4
+203,CSI-405,JAVA,Ahmad Adnan,4th,3
+203,CSI-308,OOP,Umar  ,2nd,4
+203,CSI-403,DS,Naeem Abbas ,3rd,4
+203,CSI-405,JAVA, Sohaib ,4th,4
+204,CSI-403,DS,Ali Zafar,3rd,4
+204,CSI-405,JAVA,Ahmad Adnan,4th,4
+204,CSI-308,OOP,Umar  ,2nd,4
+204,CSI-403,DS,Naeem Abbas ,3rd,3
+204,CSI-405,JAVA, Sohaib ,4th,4
+204,CSI-403,DS,Ali Zafar,3rd,4
+204,CSI-405,JAVA,Ahmad Adnan,4th,4
+205,CSI-308,OOP,Umar  ,2nd,4
+205,CSI-403,DS,Naeem Abbas ,3rd,4
+205,CSI-405,JAVA, Sohaib ,4th,4
+205,CSI-403,DS,Ali Zafar,3rd,3
+205,CSI-405,JAVA,Ahmad Adnan,4th,4
+205,CSI-308,OOP,Umar  ,2nd,4
+206,CSI-403,DS,Naeem Abbas ,3rd,4
+206,CSI-405,JAVA, Sohaib ,4th,4
+206,CSI-403,DS,Ali Zafar,3rd,4
+206,CSI-405,JAVA,Ahmad Adnan,4th,4
+206,CSI-308,OOP,Umar  ,2nd,4
+206,CSI-403,DS,Naeem Abbas ,3rd,4
+206,CSI-405,JAVA, Sohaib ,4th,3
+207,CSI-403,DS,Ali Zafar,3rd,4
+207,CSI-405,JAVA,Ahmad Adnan,4th,4
+207,CSI-308,OOP,Umar  ,2nd,4
+207,CSI-403,DS,Naeem Abbas ,3rd,4
+207,CSI-405,JAVA, Sohaib ,4th,4
+207,CSI-403,DS,Ali Zafar,3rd,4
+207,CSI-405,JAVA,Ahmad Adnan,4th,3
+208,CSI-308,OOP,Umar  ,2nd,4
+208,CSI-403,DS,Naeem Abbas ,3rd,4
+208,CSI-405,JAVA, Sohaib ,4th,3
+208,CSI-403,DS,Ali Zafar,3rd,3
+208,CSI-405,JAVA,Ahmad Adnan,4th,3
+208,CSI-308,OOP,Umar  ,2nd,4
+209,CSI-403,DS,Naeem Abbas ,3rd,3
+209,CSI-405,JAVA, Sohaib ,4th,2
+209,CSI-403,DS,Ali Zafar,3rd,3
+209,CSI-405,JAVA,Ahmad Adnan,4th,4
+209,CSI-308,OOP,Umar  ,2nd,3
+209,CSI-403,DS,Naeem Abbas ,3rd,4
+209,CSI-405,JAVA, Sohaib ,4th,3
+210,CSI-403,DS,Ali Zafar,3rd,3
+210,CSI-405,JAVA,Ahmad Adnan,4th,4
+210,CSI-308,OOP,Umar  ,2nd,3
+210,CSI-403,DS,Naeem Abbas ,3rd,3
+210,CSI-405,JAVA, Sohaib ,4th,4
+210,CSI-403,DS,Ali Zafar,3rd,3
+211,CSI-405,JAVA,Ahmad Adnan,4th,3
+211,CSI-308,OOP,Umar  ,2nd,4
+211,CSI-403,DS,Naeem Abbas ,3rd,4
+211,CSI-405,JAVA, Sohaib ,4th,3
+211,CSI-403,DS,Ali Zafar,3rd,3
+211,CSI-405,JAVA,Ahmad Adnan,4th,3
+211,CSI-308,OOP,Umar  ,2nd,4
+212,CSI-403,DS,Naeem Abbas ,3rd,3
+212,CSI-405,JAVA, Sohaib ,4th,3
+212,CSI-403,DS,Ali Zafar,3rd,3
+212,CSI-405,JAVA,Ahmad Adnan,4th,3
+212,CSI-308,OOP,Umar  ,2nd,3
+212,CSI-403,DS,Naeem Abbas ,3rd,3
+212,CSI-405,JAVA, Sohaib ,4th,4
+213,CSI-403,DS,Ali Zafar,3rd,3
+213,CSI-405,JAVA,Ahmad Adnan,4th,3
+213,CSI-308,OOP,Umar  ,2nd,3
+213,CSI-403,DS,Naeem Abbas ,3rd,3
+213,CSI-405,JAVA, Sohaib ,4th,4
+213,CSI-403,DS,Ali Zafar,3rd,3
+214,CSI-405,JAVA,Ahmad Adnan,4th,4
+214,CSI-308,OOP,Umar  ,2nd,4
+214,CSI-403,DS,Naeem Abbas ,3rd,3
+214,CSI-405,JAVA, Sohaib ,4th,3
+214,CSI-403,DS,Ali Zafar,3rd,3
+214,CSI-405,JAVA,Ahmad Adnan,4th,4
+214,CSI-308,OOP,Umar  ,2nd,3
+215,CSI-403,DS,Naeem Abbas ,3rd,2
+215,CSI-405,JAVA, Sohaib ,4th,3
+215,CSI-403,DS,Ali Zafar,3rd,4
+215,CSI-405,JAVA,Ahmad Adnan,4th,3
+215,CSI-308,OOP,Umar  ,2nd,4
+215,CSI-403,DS,Naeem Abbas ,3rd,3
+216,CSI-405,JAVA, Sohaib ,4th,3
+216,CSI-403,DS,Ali Zafar,3rd,4
+216,CSI-405,JAVA,Ahmad Adnan,4th,3
+216,CSI-308,OOP,Umar  ,2nd,3
+216,CSI-403,DS,Naeem Abbas ,3rd,2
+216,CSI-405,JAVA, Sohaib ,4th,3
+216,CSI-403,DS,Ali Zafar,3rd,2
+217,CSI-405,JAVA,Ahmad Adnan,4th,3
+217,CSI-308,OOP,Umar  ,2nd,3
+217,CSI-403,DS,Naeem Abbas ,3rd,4
+217,CSI-405,JAVA, Sohaib ,4th,3
+217,CSI-403,DS,Ali Zafar,3rd,4
+217,CSI-405,JAVA,Ahmad Adnan,4th,4
+217,CSI-308,OOP,Umar  ,2nd,4
+218,CSI-403,DS,Naeem Abbas ,3rd,4
+218,CSI-405,JAVA, Sohaib ,4th,3
+218,CSI-403,DS,Ali Zafar,3rd,3
+218,CSI-405,JAVA,Ahmad Adnan,4th,3
+218,CSI-308,OOP,Umar  ,2nd,4
+218,CSI-403,DS,Naeem Abbas ,3rd,3
+219,CSI-405,JAVA, Sohaib ,4th,2
+219,CSI-403,DS,Ali Zafar,3rd,3
+219,CSI-405,JAVA,Ahmad Adnan,4th,4
+219,CSI-308,OOP,Umar  ,2nd,3
+219,CSI-403,DS,Naeem Abbas ,3rd,4
+219,CSI-405,JAVA, Sohaib ,4th,3
+219,CSI-403,DS,Ali Zafar,3rd,3
+220,CSI-405,JAVA,Ahmad Adnan,4th,4
+220,CSI-308,OOP,Umar  ,2nd,3
+220,CSI-403,DS,Naeem Abbas ,3rd,3
+220,CSI-405,JAVA, Sohaib ,4th,2
+220,CSI-403,DS,Ali Zafar,3rd,3
+220,CSI-405,JAVA,Ahmad Adnan,4th,2
+221,CSI-308,OOP,Umar  ,2nd,4
+221,CSI-403,DS,Naeem Abbas ,3rd,3
+221,CSI-405,JAVA, Sohaib ,4th,3
+221,CSI-403,DS,Ali Zafar,3rd,3
+221,CSI-405,JAVA,Ahmad Adnan,4th,4
+221,CSI-308,OOP,Umar  ,2nd,3
+221,CSI-403,DS,Naeem Abbas ,3rd,2
+222,CSI-405,JAVA, Sohaib ,4th,3
+222,CSI-403,DS,Ali Zafar,3rd,4
+222,CSI-405,JAVA,Ahmad Adnan,4th,3
+222,CSI-308,OOP,Umar  ,2nd,4
+222,CSI-403,DS,Naeem Abbas ,3rd,3
+222,CSI-405,JAVA, Sohaib ,4th,3
+222,CSI-403,DS,Ali Zafar,3rd,4
+223,CSI-405,JAVA,Ahmad Adnan,4th,3
+223,CSI-308,OOP,Umar  ,2nd,3
+223,CSI-403,DS,Naeem Abbas ,3rd,2
+223,CSI-405,JAVA, Sohaib ,4th,3
+223,CSI-403,DS,Ali Zafar,3rd,2
+223,CSI-405,JAVA,Ahmad Adnan,4th,2
+224,CSI-308,OOP,Umar  ,2nd,3
+224,CSI-403,DS,Naeem Abbas ,3rd,4
+224,CSI-405,JAVA, Sohaib ,4th,3
+224,CSI-403,DS,Ali Zafar,3rd,4
+224,CSI-405,JAVA,Ahmad Adnan,4th,3
+224,CSI-308,OOP,Umar  ,2nd,3
+224,CSI-403,DS,Naeem Abbas ,3rd,4
+225,CSI-405,JAVA, Sohaib ,4th,3
+225,CSI-403,DS,Ali Zafar,3rd,3
+225,CSI-405,JAVA,Ahmad Adnan,4th,2
+225,CSI-308,OOP,Umar  ,2nd,3
+225,CSI-403,DS,Naeem Abbas ,3rd,2
+225,CSI-405,JAVA, Sohaib ,4th,4
+226,CSI-403,DS,Ali Zafar,3rd,3
+226,CSI-405,JAVA,Ahmad Adnan,4th,3
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
